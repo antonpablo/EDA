@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 18/01/2018 17:11:12.
+     1>Proyecto "C:\Users\Pablo-Por\documents\visual studio 2010\Projects\SumaSigitos\SumaSigitos\SumaSigitos.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Aplicando tarea Touch a "Debug\SumaSigitos.unsuccessfulbuild".
+       ClCompile:
+         D:\Visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(27): error C2146: error de sintaxis : falta ';' delante del identificador 'torres'
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(27): error C2059: error de sintaxis : ']'
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(31): error C2143: error de sintaxis : falta ';' delante de '}'
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(31): warning C4390: ';' : se encontró una instrucción controlada vacía; ¿es esa la intención?
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(50): error C2660: 'torres' : la función no acepta 5 argumentos
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(59): error C2059: error de sintaxis : '}'
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(59): error C2143: error de sintaxis : falta ';' delante de '}'
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\sumasigitos\sumasigitos\main.cpp(59): error C2059: error de sintaxis : '}'
+     1>Compilación del proyecto terminada "C:\Users\Pablo-Por\documents\visual studio 2010\Projects\SumaSigitos\SumaSigitos\SumaSigitos.vcxproj" (build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:00.40

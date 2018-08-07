@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 15/12/2017 16:11:11.
+     1>Proyecto "C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\ISBNLibro\ISBNLibro.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\ISBNLibro.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         D:\Visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         Omitiendo... (no se detectaron cambios relevantes)
+         main.cpp
+       Link:
+         D:\Visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\Debug\ISBNLibro.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ISBNLibro.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\Debug\ISBNLibro.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\Debug\ISBNLibro.lib" /MACHINE:X86 Debug\main.obj
+     1>LINK : warning LNK4076: archivo de estado incremental 'C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\Debug\ISBNLibro.ilk' no válido (que se eliminará); se vinculará de manera no incremental
+         ISBNLibro.vcxproj -> C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\Debug\ISBNLibro.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\Debug\ISBNLibro.exe;#1" /manifest Debug\ISBNLibro.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\ISBNLibro.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\ISBNLibro.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\ISBNLibro\ISBNLibro\ISBNLibro.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.30

@@ -1,0 +1,11 @@
+﻿'OrdenarCaracteres.exe': se cargó 'C:\Users\Pablo-Por\Documents\Visual Studio 2010\Projects\OrdenarCaracteres\Debug\OrdenarCaracteres.exe', Símbolos cargados.
+'OrdenarCaracteres.exe': se cargó 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'OrdenarCaracteres.exe': se cargó 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'OrdenarCaracteres.exe': se cargó 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'OrdenarCaracteres.exe': se cargó 'C:\Windows\SysWOW64\msvcp100d.dll', Símbolos cargados.
+'OrdenarCaracteres.exe': se cargó 'C:\Windows\SysWOW64\msvcr100d.dll', Símbolos cargados.
+El subproceso 'Subproceso Win32' (0x34b8) terminó con código -1073741510 (0xc000013a).
+El subproceso 'Subproceso Win32' (0x2d98) terminó con código -1073741510 (0xc000013a).
+El subproceso 'Subproceso Win32' (0x1e34) terminó con código -1073741510 (0xc000013a).
+El subproceso 'Subproceso Win32' (0x2ebc) terminó con código -1073741510 (0xc000013a).
+El programa '[4900] OrdenarCaracteres.exe: Nativo' terminó con código -1073741510 (0xc000013a).

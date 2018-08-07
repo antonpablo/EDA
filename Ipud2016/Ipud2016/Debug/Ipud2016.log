@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 03/08/2018 13:11:40.
+     1>Proyecto "c:\Users\pablo-por\documents\visual studio 2013\Projects\Ipud2016\Ipud2016\Ipud2016.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\..\Desktop\EdaProg\examen2\Junio2016\Ipud\mainApartadob17-18.cpp"
+         mainApartadob17-18.cpp
+     1>c:\users\pablo-por\desktop\edaprog\examen2\junio2016\ipud\mainapartadob17-18.cpp(169): warning C4101: 'e' : variable local sin referencia
+     1>c:\users\pablo-por\desktop\edaprog\examen2\junio2016\ipud\mainapartadob17-18.cpp(172): warning C4101: 'e' : variable local sin referencia
+     1>c:\users\pablo-por\desktop\edaprog\examen2\junio2016\ipud\mainapartadob17-18.cpp(175): warning C4101: 'e' : variable local sin referencia
+     1>c:\users\pablo-por\desktop\edaprog\examen2\junio2016\ipud\mainapartadob17-18.cpp(134): warning C4715: 'iPud::recent' : no todas las rutas de acceso de control devuelven un valor
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\pablo-por\documents\visual studio 2013\Projects\Ipud2016\Debug\Ipud2016.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\pablo-por\documents\visual studio 2013\Projects\Ipud2016\Debug\Ipud2016.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\pablo-por\documents\visual studio 2013\Projects\Ipud2016\Debug\Ipud2016.lib" /MACHINE:X86 "Debug\mainApartadob17-18.obj"
+         Ipud2016.vcxproj -> c:\users\pablo-por\documents\visual studio 2013\Projects\Ipud2016\Debug\Ipud2016.exe
+     1>Compilación del proyecto terminada "c:\Users\pablo-por\documents\visual studio 2013\Projects\Ipud2016\Ipud2016\Ipud2016.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.27

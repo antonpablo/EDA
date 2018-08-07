@@ -1,0 +1,23 @@
+﻿Compilación iniciada a las 08/03/2018 19:39:16.
+     1>Proyecto "C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\OrdenarCaracteres\OrdenarCaracteres.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\OrdenarCaracteres.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         D:\Visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\pablo-por\documents\visual studio 2010\projects\ordenarcaracteres\ordenarcaracteres\main.cpp(20): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         D:\Visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\Debug\OrdenarCaracteres.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OrdenarCaracteres.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\Debug\OrdenarCaracteres.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\Debug\OrdenarCaracteres.lib" /MACHINE:X86 Debug\main.obj
+         Debug\pila.obj
+         LINK : no se encontró C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\Debug\OrdenarCaracteres.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+         OrdenarCaracteres.vcxproj -> C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\Debug\OrdenarCaracteres.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\Debug\OrdenarCaracteres.exe;#1" /manifest Debug\OrdenarCaracteres.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\OrdenarCaracteres.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\OrdenarCaracteres.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Pablo-Por\documents\visual studio 2010\Projects\OrdenarCaracteres\OrdenarCaracteres\OrdenarCaracteres.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.91

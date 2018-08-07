@@ -1,0 +1,21 @@
+﻿Compilación iniciada a las 04/12/2017 17:51:22.
+     1>Proyecto "C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\histograma\histograma.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\histograma.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         D:\Visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\Debug\histograma.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\histograma.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\Debug\histograma.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\Debug\histograma.lib" /MACHINE:X86 Debug\main.obj
+         LINK : no se encontró C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\Debug\histograma.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+         histograma.vcxproj -> C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\Debug\histograma.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\Debug\histograma.exe;#1" /manifest Debug\histograma.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\histograma.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\histograma.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Pablo-Por\documents\visual studio 2010\Projects\histograma\histograma\histograma.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.98
